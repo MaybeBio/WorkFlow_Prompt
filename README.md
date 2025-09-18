@@ -1,2 +1,2 @@
 # WorkFlow_Prompt
-Boosting, for pleasure
+Boosting, especially for rapidly acquiring knowledge in new fields
